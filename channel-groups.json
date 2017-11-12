@@ -27,6 +27,15 @@
             "path" : "channels\/mychannel.json",
             "repo" : "kobble-data"
           }
+        },
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
         }
       ],
       "isToggled" : false,
